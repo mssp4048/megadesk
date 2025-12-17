@@ -1,3 +1,5 @@
+View this project on [CADLAB.io](https://cadlab.io/project/29808). 
+
 [![Firmware build](https://github.com/gcormier/megadesk/actions/workflows/firmware.yml/badge.svg)](https://github.com/gcormier/megadesk/actions/workflows/firmware.yml)
 
 # megadesk
